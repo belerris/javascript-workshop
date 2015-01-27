@@ -1,0 +1,21 @@
+{
+  "name": "javascript",
+  "version": "0.1.0",
+  "authors": [
+    "micheal <ratmreilly@gmail.com>"
+  ],
+  "description": "workshop in javascript",
+  "keywords": [
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "educatedmachine.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
